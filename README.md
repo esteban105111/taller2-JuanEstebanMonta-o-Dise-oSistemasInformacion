@@ -126,16 +126,7 @@ La prueba de **dividir entre cero** envía `20` y `0` al endpoint `/dividir` y v
 
 ## Pruebas E2E con Serenity BDD
 
-Serenity BDD normalmente se implementa como un proyecto aparte, por ejemplo en Java, consumiendo esta API como sistema bajo prueba.
 
-Escenarios sugeridos:
-
-- Como usuario, quiero sumar dos números positivos y ver el resultado correcto.
-- Como usuario, quiero sumar dos números negativos y ver el resultado correcto.
-- Como usuario, quiero restar dos números y ver la diferencia correcta.
-- Como usuario, quiero multiplicar dos números y ver el producto correcto.
-- Como usuario, quiero dividir dos números y ver el cociente correcto.
-- Como usuario, quiero recibir un error claro si intento dividir entre cero.
 
 ## Conclusión
 
